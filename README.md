@@ -1,16 +1,25 @@
-### Hi there 👋
+# 💫About Me :
+![](https://komarev.com/ghpvc/?username=osmanakol&label=Visitors+Count&color=brightgreen)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osmanakol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osmanakol)
 
-<!--
-**osmanakol/osmanakol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Osman, a senior Computer Engineering student at Ankara Yıldırım Beyazıt University.  
 
-Here are some ideas to get you started:
+I worked part time at Labris Networks  for a year and a half.  At Labris, I worked on a product that controls the activities of all devices in an institution that can connect to the internet, and enables the management and prevention of threats that are or may arise as a result of these activities from a single center.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+## Contribution
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osmanakol&repo=mongoose&theme=tokyonight&hide_border=true&)](https://github.com/osmanakol/mongoose)
+## 📌 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osmanakol&repo=nodejs-auth-with-acl&theme=tokyonight&hide_border=true&)](https://github.com/osmanakol/nodejs-auth-with-acl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osmanakol&repo=leaderboard-system&theme=tokyonight&hide_border=true&)](https://github.com/osmanakol/leaderboard-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osmanakol&repo=biltek_website_api&theme=tokyonight&hide_border=true&)](https://github.com/osmanakol/pcap_capture_read)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osmanakol&repo=pcap_capture_read&theme=tokyonight&hide_border=true&)](https://github.com/osmanakol/biltek_website_api/tree/devel)
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=osmanakol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=osmanakol&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanakol&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
