@@ -2,8 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=osmanakol&label=Visitors+Count&color=brightgreen)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osmanakol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osmanakol)
 
-I am Osman, a senior Computer Engineering student at Ankara Yıldırım Beyazıt University.  
-
 I am working full-time Backend Engineer at Aposto.
 
 # 💻Tech Stack
