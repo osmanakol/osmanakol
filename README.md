@@ -15,7 +15,7 @@ I am working full-time Software Engineer at Mobile Action.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osmanakol&repo=pcap_capture_read&theme=tokyonight&hide_border=true&)](https://github.com/osmanakol/biltek_website_api/tree/devel)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=osmanakol&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,pre_merged_percentage&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=osmanakol&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,pre_merged_percentage&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=osmanakol&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanakol&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
